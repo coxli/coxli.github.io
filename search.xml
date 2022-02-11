@@ -1,41 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>菌液PCR验证</title>
+    <url>/2022/02/09/animal/PCR%E8%8F%8C%E6%B6%B2%E9%AA%8C%E8%AF%81/</url>
+    <content><![CDATA[<h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的</h1>
+<p>  掌握PCR扩增筛选重组子的方法</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理</h1>
+<p>  PCR（Polymerase Chain Reaction；聚合酶链式反应）是一种体外扩增DNA的简单而有效的方法。虽然原理上PCR法是扩增DNA，RNA不能直接被扩增，但是经过反转录酶的作用把RNA反转录成cDNA后，PCR法便可应用于RNA的解析了。迄今为止，此方法已广泛应用于RNA的构造解析、cDNA的克隆及RNA水平上的表达解析等多种领域。<br />
+  由于重组子中包含外源片段，利用根据外源片段设计的引物，以菌液为模板，进行PCR扩增，就能扩增出外源片段。反之，如果菌液中没有重组子，则扩增不出外源片段。由此，可以利用PCR扩增的方法鉴定阳性重组子。</p>
+<h1 id="实验材料与仪器"><a class="markdownIt-Anchor" href="#实验材料与仪器"></a> 实验材料与仪器</h1>
+<p>  PCR仪、Taq DNA polymerase、 dNTP、18s-rRNA上游引物、18s-rRNA下游引物、无菌水</p>
+<h1 id="实验步骤"><a class="markdownIt-Anchor" href="#实验步骤"></a> 实验步骤：</h1>
+<ol>
+<li>按如下成分于冰上配制反应混合液：</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">成分</th>
+<th style="text-align:center">体积(μl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">菌液</td>
+<td style="text-align:center">1.0</td>
+</tr>
+<tr>
+<td style="text-align:left">无菌水</td>
+<td style="text-align:center">13.8</td>
+</tr>
+<tr>
+<td style="text-align:left">10XPCR buffer</td>
+<td style="text-align:center">2.0</td>
+</tr>
+<tr>
+<td style="text-align:left">MgCl</td>
+<td style="text-align:center">1.2</td>
+</tr>
+<tr>
+<td style="text-align:left">dNTP</td>
+<td style="text-align:center">0.4</td>
+</tr>
+<tr>
+<td style="text-align:left">18s-rRNA上游引物</td>
+<td style="text-align:center">0.8</td>
+</tr>
+<tr>
+<td style="text-align:left">18s-rRNA下游引物</td>
+<td style="text-align:center">0.8</td>
+</tr>
+<tr>
+<td style="text-align:left">Total</td>
+<td style="text-align:center">20.0</td>
+</tr>
+</tbody>
+</table>
+<ol start="2">
+<li>混匀，短暂离心，放入PCR仪。</li>
+<li>运行以下程序：95℃预变性5min，然后95℃预变性15s，56℃退火15s，72℃延伸30s，共进行35个循环，最后72℃延伸10min。</li>
+<li>PCR结束后，分别取5μl PCR产物进行1.5%琼脂糖凝胶电泳。拍照。</li>
+</ol>
+<h1 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项：</h1>
+<ol>
+<li>吸取每一种试剂，必须用新的枪头，防止样品间污染。</li>
+<li>菌液预先热变性。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>动物</category>
+      </categories>
+  </entry>
+  <entry>
     <title>DNA连接</title>
     <url>/2022/02/09/animal/DNA%E8%BF%9E%E6%8E%A5/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>PCR菌液验证</title>
-    <url>/2022/02/09/animal/PCR%E8%8F%8C%E6%B6%B2%E9%AA%8C%E8%AF%81/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>RNA的提取和电泳</title>
-    <url>/2022/02/09/animal/RNA%E7%9A%84%E6%8F%90%E5%8F%96%E5%92%8C%E7%94%B5%E6%B3%B3/</url>
-    <content><![CDATA[<p>&emsp;&emsp;RNA 的制备与分析对于了解基因在转录水平上的表达与调节和 cDNA 的合成都是必须的， RNA 的纯度和完整性对于 Northern blot， RT-PCR 和 cDNA 文库的构建等分子生物学实验都至关重要。 RNA 分离的方法很多，最关键的因素是尽量减少 RNA 酶的污染。<br>&emsp;&emsp;所有的组织中均存在RNA 酶,人的皮肤、手指、试剂、容器等均可能被污染，因此全部实验过程中均需戴手套操作并经常更换（使用一次性手套）。所用的玻璃器皿需置于干燥烘箱中200℃烘烤2 小时以上。凡是不能用高温烘烤的材料如塑料容器等皆可用0.1%的焦碳酸二乙酯(DEPC)水溶液处理,再用蒸馏水冲净。DEPC 是RNA 酶的化学修饰剂,它和RNA 酶的活性基团组氨酸的咪唑环反应而抑制酶活性。</p>
-<h1 id="实验目的："><a href="#实验目的：" class="headerlink" title="实验目的："></a>实验目的：</h1><p>掌握提取RNA的原理和方法</p>
-<h1 id="实验原理："><a href="#实验原理：" class="headerlink" title="实验原理："></a>实验原理：</h1><p>&emsp;&emsp;TRIZOL试剂中的主要成分为异硫氰酸胍和苯酚，其中异硫氰酸胍可裂解细胞，促使核蛋白体的解离，使RNA与蛋白质分离，并将RNA释放到溶液中。当加入氯仿时，它可抽提酸性的苯酚，而酸性苯酚可促使RNA进入水相，离心后可形成水相层和有机层，这样RNA与仍留在有机相中的蛋白质和DNA分离开。水相层（无色）主要为RNA，有机层（黄色）主要为DNA和蛋白质。</p>
-<h1 id="实验材料与仪器："><a href="#实验材料与仪器：" class="headerlink" title="实验材料与仪器："></a>实验材料与仪器：</h1><p>金鱼、低温高速离心机、移液枪、DEPC处理的枪头和离心管、5ml一次性注射器<br>RNAiso Plus、氯仿、异丙醇、75%酒精、无水乙醇、DEPC-treated water、TAE缓冲液</p>
-<h1 id="实验步骤："><a href="#实验步骤：" class="headerlink" title="实验步骤："></a>实验步骤：</h1><ol>
-<li>组织匀浆：将金鱼冰上麻醉，迅速取50mg肝脏组织，加入1mL RNAiso Plus，在冰上用1mL一次性注射器反复抽打，直到组织没有明显颗粒。室温放置5min，令细胞充分裂解。</li>
-<li>加入200μL氯仿，轻微震动15s，室温静置2-3min，以便使溶液分层。4℃，12,000×g，离心15min。</li>
-<li>小心吸取400μL上清液至另一新的1.5ml的离心管中，加入异丙醇500μL，上下翻转，室温静置10min。4℃，12,000×g，离心10min。</li>
-<li>小心弃去上清, 切勿触及沉淀，残留少量异丙醇没有关系。加入1mL75%乙醇洗涤RNA沉淀，涡旋振荡后4℃，7,500×g离心5min。</li>
-<li>弃上清，用枪头小心除去剩余乙醇，空干RNA沉淀。</li>
-<li>最后加入适量DEPC处理的水充分溶解RNA。必要时可55℃-60℃水溶 10 分钟。</li>
-<li>紫外分光光度计测RNA浓度。</li>
-<li>将约2μL总RNA上样于0.8%琼脂糖凝胶，检测RNA完整度。</li>
+    <content><![CDATA[<h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的</h1>
+<p>  掌握外源DNA片段和载体连接的方法。</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理</h1>
+<p>  限制性内切酶可识别特定位点并切割 DNA 产生粘性末端或平端的外源片段，经 DNA 的纯化处理后用于连接反应；选择克隆载体多克隆位点上相应的限制性内切酶切割，并用碱性磷酸酶处理防止载体自连；在连接酶的作用下将外源片段连接到载体上，实现外源片段的克隆。<br />
+  TA克隆：克隆载体用限制性内切酶酶切后，再在两侧的3端添加“T”。大部分耐热性DNA聚合酶进行PCR反应时都有在PCR产物的3末端添加“A”的特性。二者在DNA连接酶的作用下利用粘性末端进行连接。</p>
+<p><img src="/img/inpage/PMD18-T%E8%BD%BD%E4%BD%93.png" alt="" /><br />
+<img src="/img/inpage/TA%E5%85%8B%E9%9A%86%E5%8E%9F%E7%90%86.png" alt="" /></p>
+<h1 id="仪器和材料"><a class="markdownIt-Anchor" href="#仪器和材料"></a> 仪器和材料</h1>
+<p>  移液枪、pMD18-T Vector、DNA片段、solution I(内含T4 DNA连接酶)</p>
+<h1 id="实验步骤"><a class="markdownIt-Anchor" href="#实验步骤"></a> 实验步骤</h1>
+<ol>
+<li>在离心管中配制下列混合溶液，全量为5μl。（冰上操作）</li>
 </ol>
-<h1 id="结果分析："><a href="#结果分析：" class="headerlink" title="结果分析："></a>结果分析：</h1><ol>
-<li>根据所测的OD值计算所提取的RNA浓度。</li>
-<li>电泳图片，并对电泳结果进行分析。</li>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">成分</th>
+<th style="text-align:center">体积(μl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">pMD18-T Vector</td>
+<td style="text-align:center">1μl</td>
+</tr>
+<tr>
+<td style="text-align:left">DNA</td>
+<td style="text-align:center">1μl</td>
+</tr>
+<tr>
+<td style="text-align:left">H2O</td>
+<td style="text-align:center">3μl</td>
+</tr>
+</tbody>
+</table>
+<ol start="2">
+<li>加入5μl的solution I。（冰上操作）</li>
+<li>16℃反应30min。</li>
 </ol>
-<h1 id="思考题："><a href="#思考题：" class="headerlink" title="思考题："></a>思考题：</h1><p>分别说出氯仿、异丙醇和酒精在RNA提取过程中的作用。</p>
-<h1 id="注意事项："><a href="#注意事项：" class="headerlink" title="注意事项："></a>注意事项：</h1><h3 id="●-RNA-提取实验前的准备"><a href="#●-RNA-提取实验前的准备" class="headerlink" title="● RNA 提取实验前的准备"></a>● RNA 提取实验前的准备</h3><p>1、尽量使用一次性塑料器皿，若用玻璃器皿，应在使用前按下列方法进行处理。<br>（1）用 0.1% DEPC（焦碳酸二乙酯）水溶液在 37℃下处理 12 小时。<br>（2）然后在 120℃下高压灭菌 30 分钟以除去残留的 DEPC。<br>&emsp;ps:RNA 实验用的器具建议专门使用，不要用于其它实验。<br>2、使用的无菌水须用 0.1%的 DEPC 处理后再进行高温高压灭菌。如果使用的试剂不能高温高压灭菌，请使用高压灭菌后的仪器盛装，无菌过滤后使用。<br>3、请使用一次性塑料手套和口罩进行所有试剂配制和实验操作，以避免 RNase 污染。</p>
-<h3 id="●-RNA-纯度分析"><a href="#●-RNA-纯度分析" class="headerlink" title="● RNA 纯度分析"></a>● RNA 纯度分析</h3><ol>
-<li>用琼脂糖凝胶电泳（1%琼脂糖+溴乙锭）分析<br>电泳用于分析按以上方法提取获得的 1-2 μg 热变性 total RNA。对于没有降解的 RNA 可能是 2 种核糖体 RNA（真核细胞：28S 和 18S），条带亮度约为 2:1。但如果核糖体 RNA 条带弥散，说明可能 RNA 已降解。此外，如果条带大小超过 28S，可能存在基因组 DNA 污染，建议使用 DNase I 处理。</li>
-<li>吸光度分析<br>用 TE Buffer 稀释 RNA 后测定吸光度，OD260/OD280 比值在 1.7-2.1 为好。<br>例：<br>RNA 浓度计算方法：<br>RNA 浓度（μg/μl）=（OD260-OD320）×稀释倍数×0.04</li>
+<h1 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项</h1>
+<ol>
+<li>吸取每一种试剂，必须用新的枪头，防止样品间污染。</li>
+<li>加样准确，特别是pMD18-T Vector和DNA的加样量。</li>
 </ol>
 ]]></content>
       <categories>
@@ -45,21 +126,347 @@
   <entry>
     <title>RT-PCR</title>
     <url>/2022/02/09/animal/RT-PCR/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的</h1>
+<p>  掌握逆转录反应的实验原理和步骤和PCR扩增方法；了解RT-PCR的原理，掌握RT-PCR扩增基因的特异片段的技术。</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理</h1>
+<p>  编码蛋白质的基因在转录后形成mRNA，mRNA 翻译后编码产生蛋白质。真核生物的mRNA 的3端有多个腺苷酸，形成寡聚腺苷酸的尾巴，因此可以与Oligo dT结合，在反转录酶的作用下合成互补链，即cDNA。cDNA可以作为模板，根据基因特异性引物，进行PCR扩增，检测基因表达量。<br />
+  PCR（Polymerase Chain Reaction；聚合酶链式反应）是一种体外扩增DNA的简单而有效的方法。虽然原理上PCR法是扩增DNA，RNA不能直接被扩增，但是经过反转录酶的作用把RNA反转录成cDNA后，PCR法便可应用于RNA的解析了。迄今为止，此方法已广泛应用于RNA的构造解析、cDNA的克隆及RNA水平上的表达解析等多种领域。<br />
+  定量PCR是要检测某个基因的表达，降低或者提高，但是当你得出结果以后，你并不知道是它本身的表达降低/提高了，还是你操作过程中造成的误差（比如提RNA时的损失），所以这个时候需要同时检测另外的基因作为参照。这个基因就是内参基因，这类基因是生物体或者细胞中稳定表达的基因，表达量几乎不变。常用的内参基因如 β-actin，GAPDH，18s-rRNA等。</p>
+<h1 id="实验材料与仪器"><a class="markdownIt-Anchor" href="#实验材料与仪器"></a> 实验材料与仪器</h1>
+<p>  Total RNA、反转录试剂盒、移液枪、PCR仪、离心机、制冰机、PCR仪、Taq DNA polymerase、dNTP、18s-rRNA上游引物、18s-rRNA下游引物、无菌水</p>
+<h1 id="实验步骤"><a class="markdownIt-Anchor" href="#实验步骤"></a> 实验步骤</h1>
+<h3 id="1-先从超低温冰箱取出之前提取的rna样品冰上解冻"><a class="markdownIt-Anchor" href="#1-先从超低温冰箱取出之前提取的rna样品冰上解冻"></a> 1) 先从超低温冰箱取出之前提取的RNA样品，冰上解冻。</h3>
+<h3 id="2-反转录反应"><a class="markdownIt-Anchor" href="#2-反转录反应"></a> 2) 反转录反应</h3>
+<p>（1）按下列组份配制RT反应液（配制请在冰上进行）。为了保证反应液配制的准确性，减少分装时造成的误差，应按照比实际用量稍大体积配制反液最后加入RNA样。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">成分</th>
+<th style="text-align:center">体积(μl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">5×PrimeScript Buffer</td>
+<td style="text-align:center">2.0</td>
+</tr>
+<tr>
+<td style="text-align:left">PrimeScriptRT Enzyme Mix I</td>
+<td style="text-align:center">0.5</td>
+</tr>
+<tr>
+<td style="text-align:left">Oligo dT Primer（50μM）</td>
+<td style="text-align:center">0.5</td>
+</tr>
+<tr>
+<td style="text-align:left">Random 6 mers</td>
+<td style="text-align:center">0.5</td>
+</tr>
+<tr>
+<td style="text-align:left">RNA</td>
+<td style="text-align:center">X</td>
+</tr>
+<tr>
+<td style="text-align:left">RNase Free dH2O</td>
+<td style="text-align:center">up to 10</td>
+</tr>
+</tbody>
+</table>
+<p>（2）混匀，短暂离心，放于PCR仪里。<br />
+（3）反转录反应条件如下:<br />
+  37℃ 15 min（反转录反应）<br />
+  85℃ 5 sec（反转录酶的失活反应）<br />
+  4℃</p>
+<h3 id="3-pcr扩增"><a class="markdownIt-Anchor" href="#3-pcr扩增"></a> 3) PCR扩增</h3>
+<p>（1）按如下成分于冰上配制反应混合液：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">成分</th>
+<th style="text-align:center">体积(μl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">cDNA模板</td>
+<td style="text-align:center">1.0</td>
+</tr>
+<tr>
+<td style="text-align:left">无菌水</td>
+<td style="text-align:center">12.6</td>
+</tr>
+<tr>
+<td style="text-align:left">10XPCR buffer</td>
+<td style="text-align:center">2.0</td>
+</tr>
+<tr>
+<td style="text-align:left">MgCl</td>
+<td style="text-align:center">1.2</td>
+</tr>
+<tr>
+<td style="text-align:left">dNTP</td>
+<td style="text-align:center">0.4</td>
+</tr>
+<tr>
+<td style="text-align:left">18s-rRNA上游引物</td>
+<td style="text-align:center">0.8</td>
+</tr>
+<tr>
+<td style="text-align:left">18s-rRNA下游引物</td>
+<td style="text-align:center">0.8</td>
+</tr>
+<tr>
+<td style="text-align:left">Taq DNA polymerase</td>
+<td style="text-align:center">0.4</td>
+</tr>
+<tr>
+<td style="text-align:left">Total</td>
+<td style="text-align:center">20.0</td>
+</tr>
+</tbody>
+</table>
+<p>（2）混匀，短暂离心。放入PCR仪。<br />
+（3）运行以下程序：95℃预变性5min，然后95℃预变性15s，56℃退火15s，72℃延伸30s，共进行35个循环，最后72℃延伸10min。<br />
+（4）PCR结束后，分别取5μl PCR产物进行1.5%琼脂糖凝胶电泳，拍照。</p>
+<h1 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项：</h1>
+<ol>
+<li>逆转录时全程戴手套操作。</li>
+<li>吸取每一种试剂，必须用新的枪头，防止样品间污染。</li>
+<li>由于酶保存液中含有50%的甘油，粘度高，分取时应慢慢吸取。同时要使用精确、量程适合的移液枪，并且不要使Tip插入液面过深，否则会因Tip壁粘着造成损失，而使酶量不足。</li>
+</ol>
+<h1 id="思考题"><a class="markdownIt-Anchor" href="#思考题"></a> 思考题：</h1>
+<p>  提取的Total RNA中常常混有基因组DNA，而基因组DNA可以直接作为PCR模板进行扩增，造成解析结果不准确。为了避免这种情况发生，我们应该采取什么措施？</p>
+]]></content>
+      <categories>
+        <category>动物</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>RNA的提取和电泳</title>
+    <url>/2022/02/09/animal/RNA%E7%9A%84%E6%8F%90%E5%8F%96%E5%92%8C%E7%94%B5%E6%B3%B3/</url>
+    <content><![CDATA[<p>  RNA 的制备与分析对于了解基因在转录水平上的表达与调节和 cDNA 的合成都是必须的， RNA 的纯度和完整性对于 Northern blot， RT-PCR 和 cDNA 文库的构建等分子生物学实验都至关重要。 RNA 分离的方法很多，最关键的因素是尽量减少 RNA 酶的污染。<br />
+  所有的组织中均存在RNA 酶,人的皮肤、手指、试剂、容器等均可能被污染，因此全部实验过程中均需戴手套操作并经常更换（使用一次性手套）。所用的玻璃器皿需置于干燥烘箱中200℃烘烤2 小时以上。凡是不能用高温烘烤的材料如塑料容器等皆可用0.1%的焦碳酸二乙酯(DEPC)水溶液处理,再用蒸馏水冲净。DEPC 是RNA 酶的化学修饰剂,它和RNA 酶的活性基团组氨酸的咪唑环反应而抑制酶活性。</p>
+<h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的：</h1>
+<p>  掌握提取RNA的原理和方法</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理：</h1>
+<p>  TRIZOL试剂中的主要成分为异硫氰酸胍和苯酚，其中异硫氰酸胍可裂解细胞，促使核蛋白体的解离，使RNA与蛋白质分离，并将RNA释放到溶液中。当加入氯仿时，它可抽提酸性的苯酚，而酸性苯酚可促使RNA进入水相，离心后可形成水相层和有机层，这样RNA与仍留在有机相中的蛋白质和DNA分离开。水相层（无色）主要为RNA，有机层（黄色）主要为DNA和蛋白质。</p>
+<h1 id="实验材料与仪器"><a class="markdownIt-Anchor" href="#实验材料与仪器"></a> 实验材料与仪器：</h1>
+<p>  金鱼、低温高速离心机、移液枪、DEPC处理的枪头和离心管、5ml一次性注射器、RNAiso Plus、氯仿、异丙醇、75%酒精、无水乙醇、DEPC-treated water、TAE缓冲液</p>
+<h1 id="实验步骤"><a class="markdownIt-Anchor" href="#实验步骤"></a> 实验步骤：</h1>
+<ol>
+<li>组织匀浆：将金鱼冰上麻醉，迅速取50mg肝脏组织，加入1mL RNAiso Plus，在冰上用1mL一次性注射器反复抽打，直到组织没有明显颗粒。室温放置5min，令细胞充分裂解。</li>
+<li>加入200μL氯仿，轻微震动15s，室温静置2-3min，以便使溶液分层。4℃，12,000×g，离心15min。</li>
+<li>小心吸取400μL上清液至另一新的1.5ml的离心管中，加入异丙醇500μL，上下翻转，室温静置10min。4℃，12,000×g，离心10min。</li>
+<li>小心弃去上清, 切勿触及沉淀，残留少量异丙醇没有关系。加入1mL75%乙醇洗涤RNA沉淀，涡旋振荡后4℃，7,500×g离心5min。</li>
+<li>弃上清，用枪头小心除去剩余乙醇，空干RNA沉淀。</li>
+<li>最后加入适量DEPC处理的水充分溶解RNA。必要时可55℃-60℃水溶 10 分钟。</li>
+<li>紫外分光光度计测RNA浓度。</li>
+<li>将约2μL总RNA上样于0.8%琼脂糖凝胶，检测RNA完整度。</li>
+</ol>
+<h1 id="结果分析"><a class="markdownIt-Anchor" href="#结果分析"></a> 结果分析：</h1>
+<ol>
+<li>根据所测的OD值计算所提取的RNA浓度。</li>
+<li>电泳图片，并对电泳结果进行分析。</li>
+</ol>
+<h1 id="思考题"><a class="markdownIt-Anchor" href="#思考题"></a> 思考题：</h1>
+<p>  分别说出氯仿、异丙醇和酒精在RNA提取过程中的作用。</p>
+<h1 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项：</h1>
+<h3 id="rna-提取实验前的准备"><a class="markdownIt-Anchor" href="#rna-提取实验前的准备"></a> ● RNA 提取实验前的准备</h3>
+<ol>
+<li>尽量使用一次性塑料器皿，若用玻璃器皿，应在使用前按下列方法进行处理。<br />
+（1）用 0.1% DEPC（焦碳酸二乙酯）水溶液在 37℃下处理 12 小时。<br />
+（2）然后在 120℃下高压灭菌 30 分钟以除去残留的 DEPC。<br />
+PS：RNA 实验用的器具建议专门使用，不要用于其它实验。</li>
+<li>使用的无菌水须用 0.1%的 DEPC 处理后再进行高温高压灭菌。如果使用的试剂不能高温高压灭菌，请使用高压灭菌后的仪器盛装，无菌过滤后使用。</li>
+<li>请使用一次性塑料手套和口罩进行所有试剂配制和实验操作，以避免 RNase 污染。</li>
+</ol>
+<h3 id="rna-纯度分析"><a class="markdownIt-Anchor" href="#rna-纯度分析"></a> ● RNA 纯度分析</h3>
+<ol>
+<li>用琼脂糖凝胶电泳（1%琼脂糖+溴乙锭）分析<br />
+电泳用于分析按以上方法提取获得的 1-2 μg 热变性 total RNA。对于没有降解的 RNA 可能是 2 种核糖体 RNA（真核细胞：28S 和 18S），条带亮度约为 2:1。但如果核糖体 RNA 条带弥散，说明可能 RNA 已降解。此外，如果条带大小超过 28S，可能存在基因组 DNA 污染，建议使用 DNase I 处理。</li>
+<li>吸光度分析<br />
+用 TE Buffer 稀释 RNA 后测定吸光度，OD260/OD280 比值在 1.7-2.1 为好。<br />
+例：<br />
+RNA 浓度计算方法：<br />
+RNA 浓度（μg/μl）=（OD260-OD320）×稀释倍数×0.04</li>
+</ol>
+]]></content>
+      <categories>
+        <category>动物</category>
+      </categories>
   </entry>
   <entry>
     <title>质粒DNA的提取</title>
     <url>/2022/02/09/animal/%E8%B4%A8%E7%B2%92DNA%E7%9A%84%E6%8F%90%E5%8F%96/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的</h1>
+<p>  学习和掌握碱裂解法提取质粒；学习和掌握琼脂糖凝胶电泳检测质粒DNA的方法和技术。</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理</h1>
+<p>  碱裂解法提取质粒是根据共价闭合环状质粒DNA与线性染色体DNA在拓扑学上的差异来分离它们。在pH值介于12.0～12.5这个狭窄的范围内，线性的DNA双螺旋结构解开而被变性，尽管在这样的条件下，共价闭环质粒DNA的氢键会被断裂，但两条互补链彼此相互缠绕，仍会紧密地结合在一起。当加入pH4.8的乙酸钾高盐缓冲液恢复pH 至中性时，共价闭合环状的质粒DNA的两条互补链仍保持在一起，因此复性迅速而准确，而线性的染色体DNA的两条互补链彼此已完全分开，复性就不会那木迅速而准确，它们缠绕形成网状结构，通过离心，染色体DNA与不稳定的大分子RNA，蛋白质－SDS复合物等一起沉淀下来而被除去。</p>
+<p>  DNA分子在琼脂糖凝胶中泳动时有电荷效应和分子筛效应。DNA分子在高于等电点的pH溶液中带负电荷在电场中向正极移动。由于糖－磷酸骨架在结构上的重复性质，相同数量的双链DNA几乎具有等量的净电荷，因此他们能以相同的速度向正极方向移动。在一定的电场强度下，DNA分子的迁移速度取决于分子筛效应，即DNA分子本身的大小和构型。具有不同的相对分子质量的DNA片段泳动速度不一样，可进行分离。DNA分子的迁移速度与相对分子质量对数值成反比关系。凝胶电泳不仅可以分离不同相对分子质量的DNA， 也可以分离相对分子质量相同，但构型不同的DNA分子。如上次实验提取的pUC19质粒，有3种构型：超螺旋的共价闭合环状质粒DNA(covalently closed circular DNA，简称 CCCDNA)；开环质粒DNA，即共价闭合环状质粒DNA 1条链断裂，（open circular DNA， 简称OCDNA）；线状质粒DNA ，即共价闭合环状质粒DNA 2条链发生断裂，（linear DNA，简称L DNA）。这3种构型的质粒DNA分子在凝胶电泳中的迁移率不同。因此电泳后呈3条带，超螺旋质粒DNA泳动最快，其次为线状DNA和开环质粒DNA。</p>
+<h1 id="主要试剂"><a class="markdownIt-Anchor" href="#主要试剂"></a> 主要试剂</h1>
+<ol>
+<li>
+<p>溶液Ⅰ<br />
+50 mmol/L葡萄糖<br />
+25 mmol/L三羟甲基氨基甲烷(Tris)Tris.HCl(pH 8.0)<br />
+10 mmol/L乙二胺四乙酸Na(EDTA)(pH 8.0)</p>
+</li>
+<li>
+<p>溶液 Ⅱ<br />
+0.2mol/L NaOH（临用前用10mol/L NaOH 母液稀释）<br />
+1% SDS，用前等体积混合（新鲜配制）</p>
+</li>
+<li>
+<p>溶液 Ⅲ<br />
+5mol/L 乙酸钾 60 ml<br />
+冰乙酸    11.5 ml<br />
+水      28.5 ml</p>
+</li>
+<li>
+<p>70%乙醇（放-20℃冰箱中，用后即放回）</p>
+</li>
+<li>
+<p>RNaseA：将RNA酶溶于10 mmol/L Tris.HCl(pH7.5)、15 mmol/L NaCl中，配成10 mg／ml的浓度，于100℃加热15min，缓慢冷却至室温，保存于－20℃。</p>
+</li>
+<li>
+<p>LB+Amp培养基：LB液体培养基内加入100ug/mL的氨苄青霉素。注意Amp遇高温分解，待培养基温度低于60℃时加入。</p>
+</li>
+<li>
+<p>50 x TAE：<br />
+Tris       242g<br />
+冰乙酸     57.1ml<br />
+0.5 mol/L EDTA 100 ml<br />
+    pH  8.0</p>
+</li>
+<li>
+<p>1%琼脂糖凝胶：称0.3g琼脂糖，放入250 mL三角瓶内，加入30 mL 1×TAE电泳缓冲液，加热煮沸等其冷至60℃左右，倒入封好的电泳板上。</p>
+</li>
+<li>
+<p>10X Loading buffer</p>
+</li>
+</ol>
+<h1 id="仪器耗材"><a class="markdownIt-Anchor" href="#仪器耗材"></a> 仪器耗材</h1>
+<p>  恒温摇床、冷冻离心机、移液枪一套、制冰机、三角瓶、Eppendorf管、试管、培养皿、试剂瓶、超净工作台、电泳仪、电泳槽、凝胶成像仪、微波炉。</p>
+<h1 id="实验步骤"><a class="markdownIt-Anchor" href="#实验步骤"></a> 实验步骤</h1>
+<h3 id="1-细菌扩大培养"><a class="markdownIt-Anchor" href="#1-细菌扩大培养"></a> 1. 细菌扩大培养</h3>
+<p>  将5mL含Amp（100ug/mL）的LB液体培养基加入试管中，接入上述的含pMD18质粒的大肠杆菌（单菌落），37℃振荡培养过夜。</p>
+<h3 id="2-质粒提取"><a class="markdownIt-Anchor" href="#2-质粒提取"></a> 2. 质粒提取</h3>
+<p>（1）取培养物倒入1.5 mL离心管中，10000g 离心1 min。（分4次进行离心，每次1mL）<br />
+（2）倒出培养液，使细胞沉淀尽可能干燥。<br />
+（4）加200 uL溶液 Ⅱ（新鲜配制），盖紧管口，颠倒混匀内容物(勿剧烈震荡)，将离心管放冰上5 min 。<br />
+（5）加入150 uL溶液 Ⅲ（冰上预冷），盖紧管口，颠倒数次使混匀。冰上放置5 min。<br />
+（6）14000g，离心15 min ，将上清转至另一离心管中。<br />
+（7）向上清中加入等体积酚:氯仿:异戊醇（25:24:1），反复混匀，12000g，离心10 min，将上清转移到另一离心管中。<br />
+（8）向上清加入2倍体积乙醇和 1/10 体积的 NaAc(3 mol/L，pH5.2)，混匀后，室温放置15min。14000g离心10 min。倒去上清液，把离心管倒扣在吸水纸上，吸干液体。<br />
+（9）用500 μL 70% 乙醇洗涤质粒DNA沉淀，振荡并离心，倒去上清液，真空抽干或空气中干燥。<br />
+（10）加入适量（30 μL）的TE其中含有20 ug/ml RNA酶，使DNA完全溶解，－20℃保存。</p>
+<h3 id="3-琼脂糖电泳检测"><a class="markdownIt-Anchor" href="#3-琼脂糖电泳检测"></a> 3. 琼脂糖电泳检测</h3>
+<p>  将样品5uL与上样缓冲液混合，用移液枪将该混合样品加入样品孔（记录点样顺序及点样量），同时加入DNA marker，120v电泳大约20-30min。</p>
+<h1 id="作业"><a class="markdownIt-Anchor" href="#作业"></a> 作业</h1>
+<ol>
+<li>分析电泳图谱。</li>
+<li>提取过程中，加入酚:氯仿:异戊醇的目的是什么？</li>
+</ol>
+]]></content>
+      <categories>
+        <category>动物</category>
+      </categories>
   </entry>
   <entry>
     <title>质粒的酶切</title>
     <url>/2022/02/09/animal/%E8%B4%A8%E7%B2%92%E7%9A%84%E9%85%B6%E5%88%87/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的</h1>
+<p>  通过酶切获得可进行体外重组的载体和外源DNA。</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理</h1>
+<p><strong>1. 酶切原理</strong><br />
+  DNA重组技术是用内切酶分别将载体和外源DNA切开，经分离纯化后，用链接酶将其连接，构成新的DNA分子。限制性内切酶能特异地结合于一段被称为限制性酶识别序列的DNA序列之内或其附近的特异位点上，并切割双链DNA。它可分为三类：类和Ⅲ类酶在同一蛋白质分子中兼有切割和修饰(甲基化)作用且依赖于ATP的存在。Ⅱ类酶结合于识别位点并随机的切割识别位点不远处的DNA，而Ⅱ类酶在识别位点上切割DNA分子，然后从底物上解离。Ⅱ类由两种酶组成：一种为限制性内切核酸酶(限制酶)，它切割某一特异的核苷酸序列; 另一种为独立的甲基化酶，它修饰同一识别序列。Ⅱ类中的限制性内切酶在分子克隆中得到了广泛应用，它们是重组DNA的基础。绝大多数Ⅱ类限制酶识别长度为4至6个核苷酸的回文对称特异核苷酸序列(如EcoRⅠ识别六个核苷酸序列：5’- G↓AATTC-3’)，有少数酶识别更长的序列或简并序列。Ⅱ类酶切割位点在识别序列中，有的在对称轴处切割，产生平末端的DNA片段(如SmaⅠ：5’-CCC↓GGG-3’);有的切割位点在对称轴一侧，产生带有单链突出末端的DNA片段称粘性未端， 如EcoRⅠ切割识别序列后产生两个互补的粘性末端。</p>
+<p>      5’…G↓AATTC…3’ →5’… G AATTC…3’<br />
+      3’…CTTAA↑G …5’ →3’… CTTAA G…5’</p>
+<p>  限制性内切酶的酶解反应最适条件各不相同，各种酶有其相应的酶切缓冲液和最适反应温度(大多数为37℃)。对质粒DNA酶切反应而言， 限制性内切酶用量可按标准体系1μg DNA加1单位酶，消化1-2小时。但要完全酶解则必须增加酶的用量，一般增加2-3倍，甚至更多，反应时间也要适当延长。</p>
+<p>  酶活力通常用酶单位（U）表示，酶单位的定义是：在最适反应条件下，1小时完全降解1mg λDNA的酶量为一个单位，但是许多实验制备的DNA不象λDNA那样易于降解，需适当增加酶的使用量。反应液中加入过量的酶是不合适的，除考虑成本外，酶液中的微量杂质可能干扰随后的反应。</p>
+<p><strong>2. pMD18-T结构</strong></p>
+<p><img src="/img/inpage/pMD18.png" alt="" /></p>
+<h1 id="主要试剂"><a class="markdownIt-Anchor" href="#主要试剂"></a> 主要试剂</h1>
+<p>  EcoR I、HindIII、质粒DNA、无菌水、琼脂糖、溴酚蓝、EB、DNA marker</p>
+<h1 id="仪器耗材"><a class="markdownIt-Anchor" href="#仪器耗材"></a> 仪器耗材</h1>
+<p>  水浴锅(37℃)、灭菌锅、离心机、电泳仪、电泳槽、凝胶成像仪、移液枪一套、微波炉</p>
+<h1 id="酶切反应"><a class="markdownIt-Anchor" href="#酶切反应"></a> 酶切反应</h1>
+<p>  DNA纯度、缓冲液、温度条件及限制性内切酶本身都会影响限制性内切酶的活性。大部分限制性内切酶不受RNA或单链DNA的影响。当微量的污染物进入限制性内切酶贮存液中时，会影响其进一步使用，因此在吸取限制性内切酶时，每次都要用新的吸管头。<br />
+  反应体系：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Plasmid</th>
+<th style="text-align:center">4ul</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Buffer(10xM)</td>
+<td style="text-align:center">1ul</td>
+</tr>
+<tr>
+<td style="text-align:left">EcoR I</td>
+<td style="text-align:center">0.5ul</td>
+</tr>
+<tr>
+<td style="text-align:left">Hind III</td>
+<td style="text-align:center">0.5ul</td>
+</tr>
+<tr>
+<td style="text-align:left">H2O</td>
+<td style="text-align:center">4ul</td>
+</tr>
+<tr>
+<td style="text-align:left">Total</td>
+<td style="text-align:center">10ul</td>
+</tr>
+</tbody>
+</table>
+<p>  37℃，1hr；终止反应  65℃  10min。</p>
+<h1 id="电泳检测"><a class="markdownIt-Anchor" href="#电泳检测"></a> 电泳检测</h1>
+<p>  各取5ul酶解液，电泳检测。</p>
+<h1 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项</h1>
+<ol>
+<li>限制性内切酶一旦拿出冰箱后应当立即置于冰上。酶应当是最后一个被加入到反应体系中（在加入酶之前所有的其它反应物都应当已经加好并已预混合）。</li>
+<li>10x bf工作浓度为1x，注意混匀。</li>
+<li>酶切时所加的DNA溶液体积不能太大，否则DNA溶液中其他成分会干扰酶反应。</li>
+<li>酶通常保存在50%的甘油中，实验中，应将反应液中甘油浓度控制在1/10之下，否则，酶活性将受影响。</li>
+<li>如果反应较长时间而酶切体系又很小比如10微升，那么哪怕用PCR小管做反应，体积损失也会很大。采用石蜡油覆盖的方法可避免水分损失甘油浓度提高而引起的活性。</li>
+<li>混合：这是非常重要然而常常被忽略的一步。想要反应完全，必须使反应液充分混合。我们推荐用枪反复吸取混合，或是用手指轻弹管壁混合，然后再快速离心一下即可。<strong>注意：不可振荡。</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>动物</category>
+      </categories>
   </entry>
   <entry>
     <title>转化</title>
     <url>/2022/02/09/animal/%E8%BD%AC%E5%8C%96/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的</h1>
+<p>  掌握热激法转化大肠杆菌感受态细胞及转化子的鉴定原理和实验方法。</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理</h1>
+<p>  大肠杆菌在0℃ CaCl2低渗溶液中，细菌细胞膨胀成球形，转化混合物中的 DNA 形成抗 DNase 的羟基－钙磷酸复合物粘附于细胞表面，经42℃短时间热冲击处理，促进细胞吸收 DNA 复合物，在丰富培养基上生长数小时后，球状细胞复原并分裂增殖。在被转化的细胞中，重组子基因得到表达，在选择性培养基平板上可挑选所需的转化子。</p>
+<p><img src="/img/inpage/%E8%BD%AC%E5%8C%96%E8%BF%87%E7%A8%8B.png" alt="" /></p>
+<h1 id="仪器和材料"><a class="markdownIt-Anchor" href="#仪器和材料"></a> 仪器和材料</h1>
+<p>  超净工作台、恒温培养箱、移液枪、冷冻循环水浴锅、恒温摇床、感受态细胞DH5α、Amp+ LB液体培养基、Amp- LB液体培养基、Amp+ LB固体培养基、X-gal (20mg/ml)、IPTG(200mg/ml)。</p>
+<h1 id="实验步骤"><a class="markdownIt-Anchor" href="#实验步骤"></a> 实验步骤</h1>
+<ol>
+<li>将连接产物10μl加入到已制备好的感受态细胞中，冰上孵育30min。</li>
+<li>42℃水浴中热休克90s，立即冰上冷却2min。</li>
+<li>加入200μl不含氨苄(AMP)的LB液体培养基，37℃，150rpm，振荡培养40min。</li>
+<li>加40μl的X-Gal (20mg/ml)和8μl IPTG(200mg/ml)。</li>
+<li>约200μl转化产物涂布于培养平板上。放置于37℃培养箱，待溶液被琼脂吸干，倒置平板，37℃，培养16h。</li>
+<li>第二天上午观察蓝白斑筛选结果。</li>
+</ol>
+<h1 id="思考"><a class="markdownIt-Anchor" href="#思考"></a> 思考</h1>
+<ol>
+<li>在热激以后进行活化培养，这时的培养基中为什么不加入氨苄青霉素？</li>
+<li>蓝白斑筛选的原理？</li>
+</ol>
+]]></content>
+      <categories>
+        <category>动物</category>
+      </categories>
   </entry>
 </search>

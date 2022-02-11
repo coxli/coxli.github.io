@@ -16,15 +16,19 @@
   <meta name="author" content="𝒸𝑜𝓏𝓁𝒾">
   <meta name="keywords" content="">
   
-    <meta property="og:type" content="article">
+    <meta name="description" content="将RNA的反转录（RT）和cDNA的聚合酶链式扩增（PCR）相结合。">
+<meta property="og:type" content="article">
 <meta property="og:title" content="RT-PCR">
 <meta property="og:url" content="https://blog.cozli.tk/2022/02/09/animal/RT-PCR/index.html">
 <meta property="og:site_name" content="生物实验">
+<meta property="og:description" content="将RNA的反转录（RT）和cDNA的聚合酶链式扩增（PCR）相结合。">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://blog.cozli.tk/img/page/RT-PCR.png">
 <meta property="article:published_time" content="2022-02-09T15:39:08.000Z">
-<meta property="article:modified_time" content="2022-02-09T15:39:08.646Z">
+<meta property="article:modified_time" content="2022-02-11T14:51:32.256Z">
 <meta property="article:author" content="𝒸𝑜𝓏𝓁𝒾">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://blog.cozli.tk/img/page/RT-PCR.png">
   
   
   <title>RT-PCR - 生物实验</title>
@@ -206,7 +210,7 @@
   
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      0 字
+      1.4k 字
     </span>
   
 
@@ -215,7 +219,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      1 分钟
+      12 分钟
     </span>
   
 
@@ -255,11 +259,128 @@
             <h1 style="display: none">RT-PCR</h1>
             
             <div class="markdown-body">
-              
+              <h1 id="实验目的"><a class="markdownIt-Anchor" href="#实验目的"></a> 实验目的</h1>
+<p>  掌握逆转录反应的实验原理和步骤和PCR扩增方法；了解RT-PCR的原理，掌握RT-PCR扩增基因的特异片段的技术。</p>
+<h1 id="实验原理"><a class="markdownIt-Anchor" href="#实验原理"></a> 实验原理</h1>
+<p>  编码蛋白质的基因在转录后形成mRNA，mRNA 翻译后编码产生蛋白质。真核生物的mRNA 的3端有多个腺苷酸，形成寡聚腺苷酸的尾巴，因此可以与Oligo dT结合，在反转录酶的作用下合成互补链，即cDNA。cDNA可以作为模板，根据基因特异性引物，进行PCR扩增，检测基因表达量。<br />
+  PCR（Polymerase Chain Reaction；聚合酶链式反应）是一种体外扩增DNA的简单而有效的方法。虽然原理上PCR法是扩增DNA，RNA不能直接被扩增，但是经过反转录酶的作用把RNA反转录成cDNA后，PCR法便可应用于RNA的解析了。迄今为止，此方法已广泛应用于RNA的构造解析、cDNA的克隆及RNA水平上的表达解析等多种领域。<br />
+  定量PCR是要检测某个基因的表达，降低或者提高，但是当你得出结果以后，你并不知道是它本身的表达降低/提高了，还是你操作过程中造成的误差（比如提RNA时的损失），所以这个时候需要同时检测另外的基因作为参照。这个基因就是内参基因，这类基因是生物体或者细胞中稳定表达的基因，表达量几乎不变。常用的内参基因如 β-actin，GAPDH，18s-rRNA等。</p>
+<h1 id="实验材料与仪器"><a class="markdownIt-Anchor" href="#实验材料与仪器"></a> 实验材料与仪器</h1>
+<p>  Total RNA、反转录试剂盒、移液枪、PCR仪、离心机、制冰机、PCR仪、Taq DNA polymerase、dNTP、18s-rRNA上游引物、18s-rRNA下游引物、无菌水</p>
+<h1 id="实验步骤"><a class="markdownIt-Anchor" href="#实验步骤"></a> 实验步骤</h1>
+<h3 id="1-先从超低温冰箱取出之前提取的rna样品冰上解冻"><a class="markdownIt-Anchor" href="#1-先从超低温冰箱取出之前提取的rna样品冰上解冻"></a> 1) 先从超低温冰箱取出之前提取的RNA样品，冰上解冻。</h3>
+<h3 id="2-反转录反应"><a class="markdownIt-Anchor" href="#2-反转录反应"></a> 2) 反转录反应</h3>
+<p>（1）按下列组份配制RT反应液（配制请在冰上进行）。为了保证反应液配制的准确性，减少分装时造成的误差，应按照比实际用量稍大体积配制反液最后加入RNA样。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">成分</th>
+<th style="text-align:center">体积(μl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">5×PrimeScript Buffer</td>
+<td style="text-align:center">2.0</td>
+</tr>
+<tr>
+<td style="text-align:left">PrimeScriptRT Enzyme Mix I</td>
+<td style="text-align:center">0.5</td>
+</tr>
+<tr>
+<td style="text-align:left">Oligo dT Primer（50μM）</td>
+<td style="text-align:center">0.5</td>
+</tr>
+<tr>
+<td style="text-align:left">Random 6 mers</td>
+<td style="text-align:center">0.5</td>
+</tr>
+<tr>
+<td style="text-align:left">RNA</td>
+<td style="text-align:center">X</td>
+</tr>
+<tr>
+<td style="text-align:left">RNase Free dH2O</td>
+<td style="text-align:center">up to 10</td>
+</tr>
+</tbody>
+</table>
+<p>（2）混匀，短暂离心，放于PCR仪里。<br />
+（3）反转录反应条件如下:<br />
+  37℃ 15 min（反转录反应）<br />
+  85℃ 5 sec（反转录酶的失活反应）<br />
+  4℃</p>
+<h3 id="3-pcr扩增"><a class="markdownIt-Anchor" href="#3-pcr扩增"></a> 3) PCR扩增</h3>
+<p>（1）按如下成分于冰上配制反应混合液：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">成分</th>
+<th style="text-align:center">体积(μl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">cDNA模板</td>
+<td style="text-align:center">1.0</td>
+</tr>
+<tr>
+<td style="text-align:left">无菌水</td>
+<td style="text-align:center">12.6</td>
+</tr>
+<tr>
+<td style="text-align:left">10XPCR buffer</td>
+<td style="text-align:center">2.0</td>
+</tr>
+<tr>
+<td style="text-align:left">MgCl</td>
+<td style="text-align:center">1.2</td>
+</tr>
+<tr>
+<td style="text-align:left">dNTP</td>
+<td style="text-align:center">0.4</td>
+</tr>
+<tr>
+<td style="text-align:left">18s-rRNA上游引物</td>
+<td style="text-align:center">0.8</td>
+</tr>
+<tr>
+<td style="text-align:left">18s-rRNA下游引物</td>
+<td style="text-align:center">0.8</td>
+</tr>
+<tr>
+<td style="text-align:left">Taq DNA polymerase</td>
+<td style="text-align:center">0.4</td>
+</tr>
+<tr>
+<td style="text-align:left">Total</td>
+<td style="text-align:center">20.0</td>
+</tr>
+</tbody>
+</table>
+<p>（2）混匀，短暂离心。放入PCR仪。<br />
+（3）运行以下程序：95℃预变性5min，然后95℃预变性15s，56℃退火15s，72℃延伸30s，共进行35个循环，最后72℃延伸10min。<br />
+（4）PCR结束后，分别取5μl PCR产物进行1.5%琼脂糖凝胶电泳，拍照。</p>
+<h1 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项：</h1>
+<ol>
+<li>逆转录时全程戴手套操作。</li>
+<li>吸取每一种试剂，必须用新的枪头，防止样品间污染。</li>
+<li>由于酶保存液中含有50%的甘油，粘度高，分取时应慢慢吸取。同时要使用精确、量程适合的移液枪，并且不要使Tip插入液面过深，否则会因Tip壁粘着造成损失，而使酶量不足。</li>
+</ol>
+<h1 id="思考题"><a class="markdownIt-Anchor" href="#思考题"></a> 思考题：</h1>
+<p>  提取的Total RNA中常常混有基因组DNA，而基因组DNA可以直接作为PCR模板进行扩增，造成解析结果不准确。为了避免这种情况发生，我们应该采取什么措施？</p>
+
             </div>
             <hr>
             <div>
               <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/%E5%8A%A8%E7%89%A9/">动物</a>
+                    
+                  </div>
                 
                 
               </div>
@@ -451,6 +572,13 @@
 
 
 
+
+  
+
+  
+    <!-- KaTeX -->
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0/dist/katex.min.css" />
+  
 
 
 
